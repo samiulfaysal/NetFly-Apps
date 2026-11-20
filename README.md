@@ -1,13 +1,16 @@
 <div align="center">
 
-# 🎬 NETFLY
-**Stream Free Cinema, TV Shows, Anime & Live TV — Anytime, Anywhere**
+# 🎬 NETFLY `v3.0.3.4`
+**Free Cinema, TV Shows, Anime & 24/7 Live TV — Across Android, Windows, macOS, Linux & Web**
 
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web-E50914?style=for-the-badge&logo=android&logoColor=white)](https://github.com)
-[![Playback](https://img.shields.io/badge/Streaming-100%25%20Ad--Free%20Direct-10B981?style=for-the-badge)](#)
-[![Quality](https://img.shields.io/badge/Resolution-4K%20%7C%201080p%20HD-0a0a0f?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/Version-v3.0.3.4-E50914?style=for-the-badge)](https://github.com/samiulfaysal/netfly-apps/releases/latest)
+[![Android](https://img.shields.io/badge/Android-APK-10B981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-v3.0.3.4.apk)
+[![Windows](https://img.shields.io/badge/Windows-EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-Setup-3.0.3.4.exe)
+[![macOS](https://img.shields.io/badge/macOS-Universal%20DMG-1F2937?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-3.0.3.4-mac.dmg)
+[![Linux](https://img.shields.io/badge/Linux-AppImage%20%7C%20DEB-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-3.0.3.4-linux.AppImage)
+[![License](https://img.shields.io/badge/License-Proprietary-0a0a0f?style=for-the-badge)](#)
 
-[📥 Download Latest Android APK](../../releases/latest) • [✨ Features](#-key-features) • [📲 Installation Guide](#-how-to-install-on-android)
+[📥 Download Latest Releases](https://github.com/samiulfaysal/netfly-apps/releases/latest) • [📦 Release Packages](#-latest-release-binaries-v3034) • [✨ Key Features](#-key-features--capabilities) • [📲 Installation](#-installation--getting-started)
 
 </div>
 
@@ -15,48 +18,24 @@
 
 ## 📖 About Netfly
 
-**Netfly** is a modern, lightweight, and fast movie & TV series streaming application designed for a distraction-free viewing experience. Featuring a sleek dark obsidian & crimson interface, Netfly brings together multi-cloud direct streaming, local BDIX speed support, Live TV channels, and smart watchlist syncing across devices.
+**Netfly** is a modern, high-performance movie, series, anime, and live TV streaming platform built with a sleek dark obsidian and crimson cinematic interface[cite: 1]. Designed for fast, distraction-free entertainment across mobile devices, desktop computers, and browsers, Netfly offers multi-node cloud streaming, built-in audio amplification (`200%–400%`), smart progress syncing, and native apps for **Android**, **Windows**, **macOS**, and **Linux**.
+
+> **📦 Official Releases Hub (`samiulfaysal/netfly-apps`):** This repository hosts official compiled installers, checksums, and changelogs for Netfly. The application source code is proprietary and maintained privately.
 
 ---
 
-## ✨ Key Features
+## 📦 Latest Release Binaries (`v3.0.3.4`)
 
-- **🚫 100% Ad-Free Direct Playback:** Built-in native HLS & MP4 video engine with multi-layer anti-redirect protection—zero annoying popups or external tab hijacks.
-- **⚡ Multi-Server Pro Engine:** Instant switching across 6 high-speed direct sources:
-  - **MovieBox Pro** — Multi-language audio, resolution selector & subtitles
-  - **4KHDHub Pro** — High-bitrate 4K UHD & 1080p streams
-  - **Stremio Direct Pro** — Community HTTP addon stream bridge
-  - **BDIX Pro (Local Direct)** — Ultra-fast local ISP media mirrors for Bangladesh users
-  - **Dramachi Pro** — Dedicated Asian Drama (K-Drama, C-Drama, J-Drama) catalog
-  - **Cloud Master Pro** — Curated high-availability streams
-- **📺 Live TV / IPTV Mode:** Watch News, Sports, Entertainment, and regional channels with category filters and instant search.
-- **📱 Native Android Experience:**
-  - Lightweight (~5 MB) fast-loading app with smooth onboarding
-  - Auto-rotating immersive **Landscape Fullscreen** video player
-  - Smart **In-App Update** notifications so you never miss new features
-- **🔖 Continue Watching & Watchlist:** Automatically resume where you left off and save your favorite movies and series to **My List**.
-- **🔍 Smart Discovery:** Browse by **Top 10 Trending**, **Streaming Providers** (Netflix, Prime Video, Disney+, HBO Max, Hulu, Crunchyroll), **Genres**, **Country**, and **Top IMDb** ratings.
+| Platform | Package Format | File Name | Direct Download |
+| :--- | :--- | :--- | :--- |
+| 🤖 **Android** | Sideload APK (`5.52 MB`) | `Netfly-v3.0.3.4.apk` | [Download APK](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-v3.0.3.4.apk) |
+| 🪟 **Windows** | Setup Installer (`78.80 MB`) | `Netfly-Setup-3.0.3.4.exe` | [Download Setup EXE](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-Setup-3.0.3.4.exe) |
+| 🪟 **Windows** | Standalone Portable (`78.53 MB`) | `Netfly-3.0.3.4-win.exe` | [Download Portable EXE](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-3.0.3.4-win.exe) |
+| 🍎 **macOS** | Universal DMG (`arm64` + `x64`) | `Netfly-3.0.3.4-mac.dmg` | [Download macOS DMG](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-3.0.3.4-mac.dmg) |
+| 🐧 **Linux** | Universal AppImage (`x64`) | `Netfly-3.0.3.4-linux.AppImage` | [Download AppImage](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-3.0.3.4-linux.AppImage) |
+| 🐧 **Linux** | Debian / Ubuntu Package (`x64`) | `Netfly-3.0.3.4-linux.deb` | [Download DEB](https://github.com/samiulfaysal/netfly-apps/releases/latest/download/Netfly-3.0.3.4-linux.deb) |
 
----
-
-## 📲 How to Install on Android
-
-1. Go to the **[Releases](../../releases/latest)** section of this repository.
-2. Download the latest **`Netfly.apk`** file to your Android device.
-3. Open the downloaded file and tap **Install** *(if prompted, enable **"Install from Unknown Sources"** for your browser or file manager)*.
-4. Launch **Netfly** and enjoy unlimited streaming!
-
-> **🔄 Automatic Updates:** Once installed, Netfly checks for new releases automatically inside the app and notifies you whenever a newer version is available.
-
----
-
-## 🛡️ Privacy & Disclaimer
-
-- **Zero Invasive Tracking:** Watch history and guest watchlists are stored locally on your device unless you choose to sign in for cloud sync.
-- **Disclaimer:** Netfly does not host, upload, or store any video files on its servers. All metadata is provided via public databases, and media streams are resolved from publicly accessible third-party sources. Users are responsible for complying with their local laws.
-
----
-
-<div align="center">
-  <sub>Built with ❤️ for cinema lovers.</sub>
-</div>
+### 🔐 Verified SHA-256 Checksums
+- `Netfly-v3.0.3.4.apk`: `29CEA8A8D745E179F7611757131B0FAB7A32E19B973030766989C51F61D7DD7D`
+- `Netfly-Setup-3.0.3.4.exe`: `221CF60A54624432373B80BAA0A5A2C3C734628923AF6752E402084B855F9B24`
+- `Netfly-3.0.3.4-win.exe`:
