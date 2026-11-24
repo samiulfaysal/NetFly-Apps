@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 NETFLY `v3.0.3.4`
+# 🎬 NETFLY `v3.0.3.7`
 **Free Cinema, TV Shows, Anime & 24/7 Live TV — Across Android, Windows, macOS, Linux & Web**
 
 [![Version](https://img.shields.io/badge/Version-v3.0.3.4-E50914?style=for-the-badge)](https://github.com/samiulfaysal/netfly-apps/releases/latest)
